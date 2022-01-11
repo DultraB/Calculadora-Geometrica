@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-body{
+.pag-index{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 75px;
     background: gray url("../img/fundo2.jpg")no-repeat center;  
@@ -41,3 +41,31 @@ h3{
     font-size: 0.8em;
     background:#209fa3;
 }
+
+/*Pagina das formas*/
+
+.titulo-formas{
+    padding: 25px;
+    margin-bottom: 100px;
+    margin-left: 450px;
+}
+.formas{
+    padding-left: 55px;
+    
+}
+.circulo{
+    width: 250px;
+    height: 250px;
+    padding-right: 30px;
+}
+.quadrado{
+    width: 299px;
+    height: 219px;
+    padding-right: 30px;
+}
+.triangulo{
+    width: 279px;
+    height: 189px;
+    padding-right: 30px;
+}
+.retangulo{}
