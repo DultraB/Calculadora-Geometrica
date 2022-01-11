@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 75px;
+    background: gray url("../img/fundo2.jpg")no-repeat center;  
+}
+
+.titulo{
+    width: 700px;
+    /*border: 1px solid red;*/
+    padding: 20px;
+    margin: 25px 150px;
+}
+h1{
+    font-size: 60px;
+    color: #353535;    
+}
+h3{
+    padding-top: 20px;
+    font-size: 30px;
+    color: #209fa3;
+}
+.area-login{
+    border: solid 2px #353535;
+    width: 300px;
+    padding: 50px;
+    margin:75px 600px;
+}
+.form{
+   float: center; 
+   margin-left: 75px;
+   font-size: 1.3em;
+}
+.submit{
+    margin-top: 5px;
+    display: block;
+    width: 175px;
+    font-size: 0.8em;
+    background:#209fa3;
+}
